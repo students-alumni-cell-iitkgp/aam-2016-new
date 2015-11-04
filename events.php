@@ -113,41 +113,41 @@ h1
     <br><div class="wow fadeInRight">
     <div class="col-md-2">
     <button class="eventbtn" onclick="func1()">
-	<img src="images/events/inaug.JPG" class="two">
+	<img src="images/events/inaug.jpg" class="two">
 	</button>
 	
 	<button class="eventbtn" onclick="func4()">
-	<img src="images/events/music.JPG" class="two">
+	<img src="images/events/music.jpg" class="two">
 	</button>
 	
 	<button class="eventbtn" onclick="func7()">
-	<img src="images/events/2.JPG" class="two">
+	<img src="images/events/2.jpg" class="two">
 	</button>
 	</div><br>
     <div class="col-md-2">
     <button class="eventbtn"onclick="func2()">
-	<img src="images/events/tour.JPG" class="two">
+	<img src="images/events/tour.jpg" class="two">
 	</button><br>
     <button class="eventbtn"onclick="func5()">
-	<img src="images/events/arts.JPG" class="two">
+	<img src="images/events/arts.jpg" class="two">
 	</button><br>
     <button class="eventbtn"onclick="func8()">
-	<img src="images/events/enter.JPG" class="two">
+	<img src="images/events/enter.jpg" class="two">
 	</button>	
 	</div>
 
 <br>
     <div class="col-md-2">
 	<button class="eventbtn"onclick="func3()">
-	<img src="images/events/visit.JPG" class="two">
+	<img src="images/events/visit.jpg" class="two">
 	</button>
 	<br>
 	<button class="eventbtn"onclick="func6()">
-	<img src="images/events/dj.JPG" class="two">
+	<img src="images/events/dj.jpg" class="two">
 	</button>
 	<br>
 	<button class="eventbtn"onclick="func9()">
-	<img src="images/events/close.JPG" class="two">
+	<img src="images/events/close.jpg" class="two">
 	</button>
 	</div></div>
 </div>
