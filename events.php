@@ -79,12 +79,13 @@ h1
 {
 	width: 250px;
 	margin-right: 50px;
+	margin-top: 30%;
 	}
-#sidebar .show
+.show
 {
 	visibility: visible;
 }
-#sidebar .hid
+.hid
 {
 	visibility: hidden;
 }
