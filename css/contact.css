@@ -1,10 +1,22 @@
+@font-face {
+	font-family: 'champagne' !important;
+    src: url('../fonts/Champagne_&_Limousines.ttf') format('truetype');
+}
+
+
 .wrapper{
 	margin: auto;
 }
+
 
 .head{
 	text-align: center;	
 	font-family: 'champagne';
 	font-size: 24px;
 	font-weight: bold;
+}
+
+body
+{
+	font-family: 'champagne' !important;
 }
