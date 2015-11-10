@@ -1,5 +1,4 @@
 <head>
-  <script src="js/sidebar.js" type="text/javascript"></script>
 <script>
 $(document).ready(function(){
 
@@ -102,10 +101,23 @@ h1
 
 <body>
 <div class="container-fluid">
+	<br>
+	<div class="row"><div class="col-md-6"><div class="wow fadeInLeft"><h1 style="color:white">EVENTS</h1></div></div></div>
+	<div class="row">
+    <div id="navbar1" class="wow fadeInLeft">
+           <button class='eventbtn' onclick='func1()'>Inauguration Ceremony</button> &nbsp;&nbsp;&nbsp;&nbsp;
+           <button class='eventbtn' onclick='func3()'>Hall Visits</button>&nbsp;&nbsp;&nbsp;&nbsp;
+           <button class='eventbtn' onclick='func4()'>Musical Night</button>&nbsp;&nbsp;&nbsp;&nbsp;
+           <button class='eventbtn' onclick='func5()'>Fine Arts and Photography Exhibition</button>&nbsp;&nbsp;&nbsp;&nbsp;
+			<button class='eventbtn' onclick='func6()'>Illumination and DJ Night</button>&nbsp;&nbsp;&nbsp;&nbsp;
+			<button class='eventbtn' onclick='func7()'>Sports Events</button>&nbsp;&nbsp;&nbsp;&nbsp;
+			<button class='eventbtn' onclick='func8()'>Entertania</button>&nbsp;&nbsp;&nbsp;&nbsp;
+			<button class='eventbtn' onclick='func9()'>Closing Ceremony</button>&nbsp;&nbsp;&nbsp;&nbsp;	   
+    </div>
+</div>
 <div class="row">
 	<br><div class="wow fadeInLeft">
     <div class="col-md-6">
-    	<h1 style="color:white">EVENTS</h1>
     	<div class="animate" id="details">
     			<h1 style="text-align:center;color:white;margin-left:5px;"> Inauguration Ceremony </h1>
     			<hr><br>
@@ -152,20 +164,6 @@ h1
 	<img src="images/events/close.jpg" class="two">
 	</button>
 	</div></div>
-
-<br>
-</div>
-<div class="row">
-    <div id="navbar1" class="wow fadeInLeft">
-           <button class='eventbtn' onclick='func1()'>Inauguration Ceremony</button> &nbsp;&nbsp;&nbsp;&nbsp;
-           <button class='eventbtn' onclick='func3()'>Hall Visits</button>&nbsp;&nbsp;&nbsp;&nbsp;
-           <button class='eventbtn' onclick='func4()'>Musical Night</button>&nbsp;&nbsp;&nbsp;&nbsp;
-           <button class='eventbtn' onclick='func5()'>Fine Arts and Photography Exhibition</button>&nbsp;&nbsp;&nbsp;&nbsp;
-			<button class='eventbtn' onclick='func6()'>Illumination and DJ Night</button>&nbsp;&nbsp;&nbsp;&nbsp;
-			<button class='eventbtn' onclick='func7()'>Sports Events</button>&nbsp;&nbsp;&nbsp;&nbsp;
-			<button class='eventbtn' onclick='func8()'>Entertania</button>&nbsp;&nbsp;&nbsp;&nbsp;
-			<button class='eventbtn' onclick='func9()'>Closing Ceremony</button>&nbsp;&nbsp;&nbsp;&nbsp;	   
-    </div>
 </div>
 </div>
 </body>
