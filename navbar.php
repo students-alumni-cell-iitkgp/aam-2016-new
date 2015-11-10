@@ -97,7 +97,7 @@
 						<li><a href="#why" >WHY TO COME</a></li>
 						<li><a href="#events" >EVENTS</a></li>
 						<li><a href="#yearnings" >YEARNINGS OF YORE</a></li>
-						<li><a href="brochure.pdf" >INVITATION BROCHURE</a></li>
+						<li><a href="files/brochure.pdf" >INVITATION BROCHURE</a></li>
 					</ul>
 					</li>
 				    <li><a href="index.php#gallery" >GALLERY</a></li>
