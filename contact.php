@@ -8,7 +8,18 @@
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js">
 	<link rel="stylesheet" type="text/css" href="css/social_icon.css">
 
+<style type="text/css">
+@font-face {
+	font-family: 'champagne' !important;
+    src: url('../fonts/Champagne_&_Limousines.ttf') format('truetype');
+}
 
+body
+{
+	font-family: 'champagne';
+}
+
+</style>
 
 
 

@@ -51,7 +51,7 @@ div.row
                 <img class="two" src="images/50.JPG"></a>
         </div>
         <div class="col-lg-2">
-            <a id="single_2" href="images/2.JPG"><img class="two" src="images/2.JPG"></a><br>
+            <a id="single_2" href="images/2.jpg"><img class="two" src="images/2.jpg"></a><br>
                         <a id="single_2" href="images/60.JPG"><img class="two" src="images/60.JPG"></a>
 
         </div>

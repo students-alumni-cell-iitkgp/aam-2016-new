@@ -1,7 +1,5 @@
 <head>
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sidebar.js" type="text/javascript"></script>
 <script>
 $(document).ready(function(){
 
@@ -54,7 +52,7 @@ p
 {
 	text-align: justify;
 	width:500px;
-	margin:0 auto;
+	margin:10px auto;
 }
 
 h1
@@ -66,22 +64,30 @@ h1
 #details h1
 {
 	font-size: 35px;
+	color: white;
 }
 
-.btn-circle.btn-lg {
-  width: 50px;
-  height: 50px;
-  padding: 10px 16px;
-  font-size: 18px;
-  line-height: 1.33;
-  border-radius: 25px;
-}
+
 #event1
 {
 	background-color: white;
 	padding: 5px;
 	font-size: 22px;
 	
+}
+#sidebar
+{
+	width: 250px;
+	margin-right: 50px;
+	margin-top: 30%;
+	}
+.show
+{
+	visibility: visible;
+}
+.hid
+{
+	visibility: hidden;
 }
 </style>
 
@@ -97,13 +103,20 @@ h1
 	<br><div class="wow fadeInLeft">
 
     <div class="col-md-6">
-    	<div style="float:left">
-    	<button type="button" class="btn btn-default btn-circle btn-lg" onclick="events()"><i class="glyphicon glyphicon-list"></i></button>
-		<div id="event1">
-			<!--Events button will be added here through JS -->
-		</div>
-		</div>
+    	
           <h1 style="color:white;text-align:center; font-size:40px;">EVENTS</h1>
+          <div style="float:left" id="sidebar">
+    	<div id="event1">
+			<button class='eventbtn' onclick='func1()'>Inauguration Ceremony</button><br>
+	<button class='eventbtn' onclick='func3()'>Hall Visits</button><br>
+	<button class='eventbtn' onclick='func4()'>Musical Night</button><br>
+	<button class='eventbtn' onclick='func5()'>Fine Art and <br>Photography Exhibition</button><br>
+	<button class='eventbtn' onclick='func6()'>Illumination and <br> DJ Night</button><br>
+	<button class='eventbtn' onclick='func7()'>Sports Events</button><br>
+	<button class='eventbtn' onclick='func8()'>Entertania</button><br>
+	<button class='eventbtn' onclick='func9()'>Closing Ceremony</button><br>
+		</div>
+		</div>
     	<div class="animate"  id="details">
     			<h1 style="text-align:center;color:white;margin-left:5px;"> Inauguration Ceremony </h1>
     			<hr><br>

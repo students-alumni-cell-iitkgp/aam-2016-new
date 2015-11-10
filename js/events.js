@@ -25,7 +25,7 @@ function func4(){
 }
 
 function func5(){
-	var x='<p>TCheck out the skills of the students of IIT Kharagpur as they prepare paintings, sketches, models and click photographs for their dear alumni.The works will be put up for sale.</p>'
+	var x='<p>Check out the skills of the students of IIT Kharagpur as they prepare paintings, sketches, models and click photographs for their dear alumni.The works will be put up for sale.</p>'
 	var t="<h1 align='center'> Fine Art and Photography Exhibition </h1><hr><br>"
 	document.getElementById('details').innerHTML=t+x;
 }
