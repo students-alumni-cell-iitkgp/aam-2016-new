@@ -7,6 +7,7 @@
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js">
 	<link rel="stylesheet" type="text/css" href="css/social_icon.css">
+	<link rel="stylesheet" type="text/css" href="css/form.css">
 
 <style type="text/css">
 @font-face {

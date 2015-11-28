@@ -29,7 +29,7 @@ img.two
 	background-color: transparent;
 	border:none;
 	text-align: left;
-	font-size: 1.2em;
+	font-size: 15px;
 	color:#006dcc;
 }
 .eventbtn after
@@ -42,6 +42,7 @@ img.two
 .col-md-2
 {
 	margin-left: -7px;
+	margin-top: -100px;
 }
 
 p
@@ -102,8 +103,9 @@ h1
 <body>
 <div class="container-fluid">
 	<br>
-	<div class="row"><div class="col-md-6"><div class="wow fadeInLeft"><h1 style="color:white">EVENTS</h1></div></div></div>
 	<div class="row">
+			<div class="col-md-6"><div class="wow fadeInLeft"><h1 style="color:white">EVENTS</h1></div>
+
     <div id="navbar1" class="wow fadeInLeft">
            <button class='eventbtn' onclick='func1()'>Inauguration Ceremony</button> &nbsp;&nbsp;&nbsp;&nbsp;
            <button class='eventbtn' onclick='func3()'>Hall Visits</button>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -113,7 +115,7 @@ h1
 			<button class='eventbtn' onclick='func7()'>Sports Events</button>&nbsp;&nbsp;&nbsp;&nbsp;
 			<button class='eventbtn' onclick='func8()'>Entertania</button>&nbsp;&nbsp;&nbsp;&nbsp;
 			<button class='eventbtn' onclick='func9()'>Closing Ceremony</button>&nbsp;&nbsp;&nbsp;&nbsp;	   
-    </div>
+    </div></div>
 </div>
 <div class="row">
 	<br><div class="wow fadeInLeft">
