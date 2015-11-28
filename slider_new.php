@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Bootstrap Example</title>
+  <title>13th Annual Alumni Meet</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/animate.css">
@@ -25,9 +25,9 @@
 </head>
 <body>
 
-<div class="container">
+<div class="container" style="position:relative;left:-80px;top:50px;">
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
- <h2 style="color:white;">Previous Sponsors</h2>
+ <p style="position:relative;left:20px;color:white;font-weight:normal;">Our Sponsors</p>
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
      
