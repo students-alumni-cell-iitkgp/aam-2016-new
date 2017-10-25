@@ -358,7 +358,7 @@
 							</div>
 						</div>
 						<h4 style="margin-top:20px;">Siddharth Kannan </h4>
-															<div class="phone">+91 9800190996 </div>
+															<div class="phone">+91-000-000-0000 </div>
 
 					</div>
 				</div>
